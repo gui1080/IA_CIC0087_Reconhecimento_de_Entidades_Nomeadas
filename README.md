@@ -1,4 +1,7 @@
 # Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
+
+Prof. Vinícius R. P. Borges
+
 ## Reconhecimento de Entidades Nomeadas
 
 Notebook de IA/ML para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab.
