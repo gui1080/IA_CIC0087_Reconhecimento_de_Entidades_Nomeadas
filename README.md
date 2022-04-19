@@ -11,3 +11,5 @@ Data de entrega: 10/05/2022
 https://github.com/UnB-KnEDLe/tutorial_anotacao_contratos_licitacoes
 
 https://github.com/viniciusrpb/cic0087_natural_language_processing/
+
+https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
