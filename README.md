@@ -4,7 +4,9 @@ Prof. Vinícius R. P. Borges
 
 ## Reconhecimento de Entidades Nomeadas
 
-Notebook de IA/ML para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab.
+Notebook de IA para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab.
+
+UnB, 2021/02
 
 Aluno: Guilherme Braga (17/0162290)
 
