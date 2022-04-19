@@ -1,4 +1,5 @@
-# Trabalho final de CIC0087: Reconhecimento de Entidades Nomeadas
+# Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
+## Reconhecimento de Entidades Nomeadas
 
 Notebook de IA/ML para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab.
 
