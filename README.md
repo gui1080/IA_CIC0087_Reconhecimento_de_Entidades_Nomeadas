@@ -1,6 +1,6 @@
 # Trabalho final de CIC0087: Reconhecimento de Entidades Nomeadas
 
-Notebook de IA/ML para reconhecimento de entidades nomeadas no Diário Oficial do GDF.
+Notebook de IA/ML para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab.
 
 Aluno: Guilherme Braga (17/0162290)
 
