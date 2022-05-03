@@ -19,3 +19,7 @@ https://github.com/UnB-KnEDLe/tutorial_anotacao_contratos_licitacoes
 https://github.com/viniciusrpb/cic0087_natural_language_processing/
 
 https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
+
+Uma tentativa de  Polynomial Rolling Hash -> https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/
+
+
