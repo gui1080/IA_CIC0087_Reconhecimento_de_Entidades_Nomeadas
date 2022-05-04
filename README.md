@@ -1,3 +1,8 @@
+learning rate pro adam tinha que diminuir, optimizador diferente, 10 a menos 3 / hashing vectorizer / early stopping
+
+ruder.io/optimizing-gradient-descent
+github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynb
+
 # Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
 
 Prof. Vinícius R. P. Borges
