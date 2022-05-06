@@ -1,3 +1,5 @@
+https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator
+
 # Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
 
 Prof. Vinícius R. P. Borges
@@ -14,15 +16,15 @@ Data de entrega: 10/05/2022
 
 ## Scripts
 
-Codigo
-│    
-│   
-└───Classificação de todas as entidades
-    │   1TrabalhoFinal_CIC0087.ipynb -> Testes inicais, classificando tudo com Polynomila Rolling Hash 
-│   
-└───Classificação de entidades específicas
-    │   2TrabalhoFinal_CIC0087.ipynb -> Classificando as entidades pedidas na especificação, testes intensivos com Polynomia/ Rolling Hash  
-    │   3TrabalhoFinal_CIC0087.ipynb -> Nova tentativa, com Hashing Vectorizer
+'''
+.
+└── Codigo
+    ├── Classificação de todas as entidades
+    │   └── 1TrabalhoFinal_CIC0087.ipynb -> Testes inicais, classificando tudo com Polynomila Rolling Hash, com "one-hot label"
+    └── Classificação de entidades específicas
+        ├── 2TrabalhoFinal_CIC0087.ipynb -> Classificando as entidades pedidas na especificação, testes intensivos com Polynomia/ Rolling Hash, com "one-hot label"
+        └── 3TrabalhoFinal_CIC0087.ipynb -> Nova tentativa, com Hashing Vectorizer, acumulando em variável, com "one-hot label"
+'''
 
 #### Dificuldade maior no experimento: representação de strings em inteiros, configuração de arquitetura de rede, definição de hiperparâmetros, testagem dentro do dataset possível.
 
@@ -38,4 +40,4 @@ Uma tentativa de  Polynomial Rolling Hash -> https://www.geeksforgeeks.org/strin
 
 Otimização de gradiente descendente -> https://ruder.io/optimizing-gradient-descent/
 
-LSTM notebook (Matheus Stauffer) -> https://github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynb
+LSTM notebook (Matheus Stauffer) -> https://github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynbre
