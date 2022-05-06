@@ -6,13 +6,13 @@ Prof. Vinícius R. P. Borges
 
 ## Reconhecimento de Entidades Nomeadas
 
-Notebook de IA para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab. Arquivos disponibilizados em extensão ".ipynb". 
+Notebook de Deep Learning - Recurrent Neural Network para reconhecimento de entidades nomeadas no Diário Oficial do GDF. Trabalho feito em notebook no Google Colab. Arquivos disponibilizados em extensão ".ipynb". 
 
 UnB, 2021/02
 
 Aluno: Guilherme Braga (17/0162290)
 
-Data de entrega: 10/05/2022
+Data de limite de entrega: 10/05/2022
 
 ## Scripts
 
@@ -23,7 +23,7 @@ Data de entrega: 10/05/2022
     │   └── 1TrabalhoFinal_CIC0087.ipynb -> Testes inicais, classificando tudo com Polynomila Rolling Hash, com "one-hot label"
     └── Classificação de entidades específicas
         ├── 2TrabalhoFinal_CIC0087.ipynb -> Classificando as entidades pedidas na especificação, testes intensivos com Polynomia/ Rolling Hash, com "one-hot label"
-        └── 3TrabalhoFinal_CIC0087.ipynb -> Nova tentativa, com Hashing Vectorizer, acumulando em variável, com "one-hot label"
+        └── 3TrabalhoFinal_CIC0087.ipynb -> Nova tentativa do notebook anterior, com Hashing Vectorizer
 ````
 
 #### Dificuldade maior no experimento: representação de strings em inteiros, configuração de arquitetura de rede, definição de hiperparâmetros, testagem dentro do dataset possível.
