@@ -1,8 +1,3 @@
-learning rate pro adam tinha que diminuir, optimizador diferente, 10 a menos 3 / hashing vectorizer / early stopping
-
-ruder.io/optimizing-gradient-descent
-github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynb
-
 # Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
 
 Prof. Vinícius R. P. Borges
@@ -27,4 +22,6 @@ https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 
 Uma tentativa de  Polynomial Rolling Hash -> https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/
 
+Otimização de gradiente descendente -> https://ruder.io/optimizing-gradient-descent/
 
+LSTM notebook (Matheus Stauffer) -> https://github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynb
