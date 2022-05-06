@@ -16,6 +16,7 @@ Data de entrega: 10/05/2022
 
 ## Scripts
 
+````
 .
 └── Codigo
     ├── Classificação de todas as entidades
@@ -23,6 +24,7 @@ Data de entrega: 10/05/2022
     └── Classificação de entidades específicas
         ├── 2TrabalhoFinal_CIC0087.ipynb -> Classificando as entidades pedidas na especificação, testes intensivos com Polynomia/ Rolling Hash, com "one-hot label"
         └── 3TrabalhoFinal_CIC0087.ipynb -> Nova tentativa, com Hashing Vectorizer, acumulando em variável, com "one-hot label"
+````
 
 #### Dificuldade maior no experimento: representação de strings em inteiros, configuração de arquitetura de rede, definição de hiperparâmetros, testagem dentro do dataset possível.
 
