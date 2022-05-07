@@ -12,6 +12,8 @@ Aluno: Guilherme Braga (17/0162290)
 
 Data de limite de entrega: 10/05/2022
 
+Data de entrega: 07/05/2022
+
 ## Scripts
 
 ````
@@ -25,6 +27,8 @@ Data de limite de entrega: 10/05/2022
 ````
 
 #### Dificuldade maior no experimento: representação de strings em inteiros, configuração de arquitetura de rede, definição de hiperparâmetros, testagem dentro do dataset possível.
+
+#### A terceira tentativa foi a melhor!
 
 ## Referências
 
