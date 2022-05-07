@@ -1,5 +1,3 @@
-https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator
-
 # Trabalho final de "Anotação de Textos e Processamento de Linguagem Natural (CIC0087)"
 
 Prof. Vinícius R. P. Borges
