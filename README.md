@@ -40,4 +40,4 @@ Uma tentativa de  Polynomial Rolling Hash -> https://www.geeksforgeeks.org/strin
 
 Otimização de gradiente descendente -> https://ruder.io/optimizing-gradient-descent/
 
-LSTM notebook (Matheus Stauffer) -> https://github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynbre
+LSTM notebook (Matheus Stauffer) -> https://github.com/mstauffer/tcdf_text_classification/blob/main/aula_lstm_tcdf.ipynb
